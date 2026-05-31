@@ -3,9 +3,6 @@
 **Tired of your photos turning blurry after posting to social media?**
 
 
-> 💡 This is the open-source version with the core resize engine, watermark overlay, and film frame features.
-> The full version includes custom sharpening, ratio optimization, EXIF normalization, polaroid mode, Finder quick actions, and more.
-
 ---
 
 ## Features
@@ -102,19 +99,6 @@ All processing happens on your machine — no cloud upload, no privacy concerns.
 └── LICENSE
 ```
 
-## What's Different from the Full Version
-
-| Feature | Open Source | Full Version |
-|---------|:-----------:|:------------:|
-| 16-bit vImage scaling | ✅ | ✅ |
-| Watermark overlay | ✅ | ✅ |
-| Film frame overlay | ✅ (4 styles) | ✅ (10+ styles) |
-| Polaroid mode | ❌ | ✅ |
-| Custom luma sharpening | ❌ | ✅ |
-| Smart ratio optimization | ❌ | ✅ |
-| EXIF orientation normalization | ❌ | ✅ |
-| Finder Quick Actions | ❌ | ✅ |
-| Activation / trial system | ❌ | ✅ |
 
 ## License
 
