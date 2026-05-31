@@ -2,7 +2,6 @@
 
 **Tired of your photos turning blurry after posting to social media?**
 
-轻影 (Qingying) is a macOS batch image resizer built on Apple's vImage engine with 16-bit floating-point precision. It's the final step before you share — keeping your photos sharp and colorful even after resizing.
 
 > 💡 This is the open-source version with the core resize engine, watermark overlay, and film frame features.
 > The full version includes custom sharpening, ratio optimization, EXIF normalization, polaroid mode, Finder quick actions, and more.
