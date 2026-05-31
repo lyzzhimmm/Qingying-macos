@@ -1,4 +1,4 @@
-# 轻影 (ResizeJpg) — Open Source
+# Qingying — macOS Open Source
 
 **Tired of your photos turning blurry after posting to social media?**
 
